@@ -21,5 +21,5 @@ Averigua la forma de obtener la contraseña para poder acceder al contenido de e
 
 Entrega
 
-    Contesta las preguntas planteadas en un documento PDF. Adjunta capturas de pantalla de los resultados de cada uno de los pasos.
-    No olvides incluir las referencias bibliográficas que has consultado.
+Contesta las preguntas planteadas en un documento PDF. Adjunta capturas de pantalla de los resultados de cada uno de los pasos.
+No olvides incluir las referencias bibliográficas que has consultado.
